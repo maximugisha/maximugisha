@@ -1,8 +1,9 @@
-### Hooray! I am Maximo Mugisha 👋
+### Hooray! I am 
+# Maximo Mugisha 👋
 
 *maximugisha@gmail.com | maximo@thetechstudio.org*
 
-<img src="https://github.com/maximugisha/maximugisha/blob/main/Maximo_Mugisha.png" style="width:100vw; height:40vh; object-fit:cover; border-radius: 20px">
+<img src="https://thetechstudio.org/wp-content/uploads/2021/05/Maximo_Mugisha.png" style="width:100vw; height:40vh; object-fit:cover; border-radius: 20px">
 
 
 I am a computer engineer Based in Kampala Uganda, currently working in the fields of
@@ -52,7 +53,7 @@ I have a lot of passion for solving problems  that affect my immediate community
 
 ### Contact Me
 
-|  <a href="https://github.com/maximugisha"><img src="https://github.com/maximugisha/maximugisha/blob/main/Maximo_Mugisha.png" width="200"/></a> |
+|  <a href="https://github.com/maximugisha"><img src="https://thetechstudio.org/wp-content/uploads/2021/05/Maximo_Mugisha.png" width="200"/></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 | 📞  **+256 775097505** \| **+256 702431725**|
 | 📧   maximugisha@gmail.com \| maximo@thetechstudio.org|

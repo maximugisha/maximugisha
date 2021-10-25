@@ -1,7 +1,7 @@
 ### Hooray! I am 
 # Maximo Mugisha 👋
 
-*maximugisha@gmail.com | maximo@thetechstudio.org*
+*maximugisha@gmail.com | maximo@maxtechug.com*
 
 <img src="https://github.com/maximugisha/maximugisha/blob/main/maximo_mugisha.jpg" style="width:10vw; height:40vh; object-fit:cover; border-radius: 20px">
 

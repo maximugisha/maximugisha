@@ -56,8 +56,8 @@ I have a lot of passion for solving problems  that affect my immediate community
 |  <a href="https://github.com/maximugisha"><img src="https://github.com/maximugisha/maximugisha/blob/main/maximo_mugisha.jpg" width="200"/></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 | 📞  **+256 775097505** \| **+256 702431725**|
-| 📧   maximugisha@gmail.com \| maximo@thetechstudio.org|
-| 🌍   <a href="https://thetechstudio.org">thetechstudio.org</a>
+| 📧   maximugisha@gmail.com \| maximo@maxtechug.com|
+| 🌍   <a href="https://maxtechug.com">maxtechug.com</a> | <a href="https://maximo.maxtechug.com">maximo.maxtechug.com</a>
 <a href="https://www.linkedin.com/in/maximo-mugisha-434a9496"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/maximugisha"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://twitter.com/maximo_ug"><img src="https://cdn.iconscout.com/icon/free/png-64/twitter-241-721979.png" width="32px" height="32px"></a> |
 
 

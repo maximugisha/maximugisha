@@ -2,7 +2,7 @@
 
 *maximugisha@gmail.com*
 
-<img src="https://github.com/maximugisha/maximugisha/blob/main/maximo_mugisha.jpg" style="width:10vw; height:10vh; object-fit:cover; border-radius: 20px">
+<img src="https://github.com/maximugisha/maximugisha/blob/main/maximo_mugisha.jpg" width="200" >
 
 
 Competent, forward-looking ***Computer and Software Engineer*** with 6+ years experience in creating and  innovating ideas into software solutions to enhance ***business productivity***. Consistently recognized as a ***hands-on leader***, skilled at project collaboration in cross-functional teams with a fast-paced, deadline-driven environment to steer ***timely project completion*** and within ***budgetary constraints***.
@@ -53,7 +53,7 @@ Competent, forward-looking ***Computer and Software Engineer*** with 6+ years ex
 |  <a href="https://github.com/maximugisha"><img src="https://github.com/maximugisha/maximugisha/blob/main/maximo_mugisha.jpg" width="200"/></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 | 📞  **+256 702431725**|
-| 📧   maximugisha@gmail.com \
+| 📧   maximugisha@gmail.com 
 | 🌍   <a href="https://maximo.maxtechug.com">maximo.maxtechug.com</a>
 <a href="https://www.linkedin.com/in/maximo-mugisha-434a9496"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/maximugisha"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://twitter.com/maximo_ug"><img src="https://cdn.iconscout.com/icon/free/png-64/twitter-241-721979.png" width="32px" height="32px"></a> |
 

@@ -1,14 +1,11 @@
-### Hooray! I am 
-# Maximo Mugisha 👋
+# Maximo Mugisha
 
-*maximugisha@gmail.com | maximo@maxtechug.com*
+*maximugisha@gmail.com*
 
-<img src="https://github.com/maximugisha/maximugisha/blob/main/maximo_mugisha.jpg" style="width:10vw; height:40vh; object-fit:cover; border-radius: 20px">
+<img src="https://github.com/maximugisha/maximugisha/blob/main/maximo_mugisha.jpg" style="width:10vw; height:10vh; object-fit:cover; border-radius: 20px">
 
 
-I am a computer engineer Based in Kampala Uganda, currently working in the fields of
-**Cloud Computing** especially **Amazon AWS** and **Google's GCP** , software development, **Block Chain** and **Crypto Currency**.
-I have a lot of passion for solving problems  that affect my immediate community and as a result, making the world a better place.
+Competent, forward-looking ***Computer and Software Engineer*** with 6+ years experience in creating and  innovating ideas into software solutions to enhance ***business productivity***. Consistently recognized as a ***hands-on leader***, skilled at project collaboration in cross-functional teams with a fast-paced, deadline-driven environment to steer ***timely project completion*** and within ***budgetary constraints***.
 
 ### GitHub Statistics
 
@@ -55,9 +52,9 @@ I have a lot of passion for solving problems  that affect my immediate community
 
 |  <a href="https://github.com/maximugisha"><img src="https://github.com/maximugisha/maximugisha/blob/main/maximo_mugisha.jpg" width="200"/></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-| 📞  **+256 775097505** \| **+256 702431725**|
-| 📧   maximugisha@gmail.com \| maximo@maxtechug.com|
-| 🌍   <a href="https://maxtechug.com">maxtechug.com</a> | <a href="https://maximo.maxtechug.com">maximo.maxtechug.com</a>
+| 📞  **+256 702431725**|
+| 📧   maximugisha@gmail.com \
+| 🌍   <a href="https://maximo.maxtechug.com">maximo.maxtechug.com</a>
 <a href="https://www.linkedin.com/in/maximo-mugisha-434a9496"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/maximugisha"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://twitter.com/maximo_ug"><img src="https://cdn.iconscout.com/icon/free/png-64/twitter-241-721979.png" width="32px" height="32px"></a> |
 
 

@@ -54,7 +54,7 @@ Competent, forward-looking ***Computer and Software Engineer*** with 6+ years ex
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 | 📞  **+256 702431725**|
 | 📧   maximugisha@gmail.com 
-| 🌍   <a href="https://maximo.maxtechug.com">maximo.maxtechug.com</a>
+| 🌍   <a href="https://maximo.ug">maximo.ug</a>
 <a href="https://www.linkedin.com/in/maximo-mugisha-434a9496"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://github.com/maximugisha"><img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="32px" height="32px"></a> &nbsp; &nbsp; <a href="https://twitter.com/maximo_ug"><img src="https://cdn.iconscout.com/icon/free/png-64/twitter-241-721979.png" width="32px" height="32px"></a> |
 
 

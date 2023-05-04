@@ -2,7 +2,7 @@
 
 *maximugisha@gmail.com*
 
-<img src="https://github.com/maximugisha/maximugisha/blob/main/maximo_mugisha.jpg" width="200" >
+<img src="https://github.com/maximugisha/maximugisha/blob/main/IMG_1408.jpg" width="200" >
 
 
 Competent, forward-looking ***Computer and Software Engineer*** with 6+ years experience in creating and  innovating ideas into software solutions to enhance ***business productivity***. Consistently recognized as a ***hands-on leader***, skilled at project collaboration in cross-functional teams with a fast-paced, deadline-driven environment to steer ***timely project completion*** and within ***budgetary constraints***.
